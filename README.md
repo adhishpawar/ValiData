@@ -39,7 +39,7 @@
 
 #### Response:
 - Username is Taken ✅ (from Bloom Filter)
-# OR
+- OR
 - Username is Taken (Confirmed By DB)
-# OR
+- OR
 - Username is available ✅ (false positive from Bloom Filter)
